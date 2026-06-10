@@ -7,14 +7,20 @@ Universidad de Antioquia.
 
 ## Contenido del repositorio
 
-├── Entrega1.pdf              # Propuesta inicial del proyecto
-├── INFORME_PROYECTO.pdf      # Informe ejecutivo del proyecto
-└── DeepC_Clustpy.ipynb       # Notebook principal (DEC + IDEC)
+```
+|- Entrega1.pdf            # Propuesta inicial del proyecto
+|- INFORME_PROYECTO.pdf    # Informe ejecutivo del proyecto
+|- DeepC_Clustpy.ipynb     # Notebook principal (DEC + IDEC)
+```
 
 ## Librería base
 
-Clustpy, versión 0.0.2, que implementa diversas arquitecturas de Deep Clustering. Los módulos auxiliares para la métrica CVNN se descargan automáticamente desde
-GitHub al ejecutar la primera celda del notebook.
+[ClustPy](https://github.com/collinleiber/ClustPy/tree/main) v0.0.2, que implementa
+diversas arquitecturas de *Deep Clustering*. Los módulos auxiliares para la métrica CVNN
+se descargan automáticamente desde GitHub al ejecutar la primera celda del notebook.
+
+- 📄 [Documentación](https://clustpy.readthedocs.io/en/latest/search.html?q=_AbstractAutoencoder&check_keywords=yes&area=default)
+- 💻 [Repositorio](https://github.com/collinleiber/ClustPy/tree/main)
 
 ## Uso
 
@@ -32,5 +38,4 @@ CIFAR-10 se descarga automáticamente (~170 MB) en la primera ejecución.
 ## Autor
 
 **Sebastián Castaño Quinchía** · sebastian.castanoq@udea.edu.co  
-Universidad de Antioquia — Junio 2026
-Curso de Fundamentos de Deep Learning
+Universidad de Antioquia · Curso Fundamentos de Deep Learning · Junio 2026
