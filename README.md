@@ -33,7 +33,7 @@ CIFAR-10 se descarga automáticamente (~170 MB) en la primera ejecución.
 
 ## Video de exposición del proyecto
 
-🎥 [Ver en YouTube](https://www.youtube.com/watch?v=ENLACE_AQUI)
+🎥 [Ver en YouTube: Exploración de algoritmos fundacionales de Deep Clustering: DEC y IDEC]([https://www.youtube.com/watch?v=ENLACE_AQUI](https://youtu.be/vUKOOXhbWG4))
 
 ## Autor
 
